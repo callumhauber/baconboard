@@ -1,6 +1,6 @@
 {
-    "manufacturer": "Bacon",
-    "keyboard_name": "baconboard",
+    "manufacturer": "Bacon & anchovie",
+    "keyboard_name": "baconboard v2.1 handwire",
     "maintainer": "callumhauber",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
