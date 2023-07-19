@@ -28,7 +28,7 @@ The Amoeba PCBs support MX or Alps style switches, but we highly recommended MX 
 - 100x [1N4148 Diodes](https://keeb.io/products/1n4148-diodes)  
 Remember to choose SMD (0805) for the Amoeba Variant, as it is **not** compatible with thru-hole diodes! You don't actually need 100 of these, but it's good to have extras. **A heat gun and soldering paste are highly recommended** for soldering these onto the Amoeba PCBs.
 - 1x [Stampy RP2040 Microcontroller](https://keeb.io/collections/diy-parts/products/stampy-rp2040-usb-c-controller-board-for-handwiring)  
-You may elect to use a different microcontroller, but this guide and our firmware is written for the Stampy. Proceed at your own risk, and remember to modify the firmware as needed for your chosen controller. The controller needs to support 5 rows and 18 columns, for a total of 23 GPIO (unless you want to change the wiring as well to combine multiple rows/columns).
+You may elect to use a different microcontroller, but this guide and our firmware is written for the Stampy. Proceed at your own risk, and remember to modify the case files and firmware as needed for your chosen controller. The controller needs to support 5 rows and 18 columns, for a total of 23 GPIO (unless you want to change the wiring as well to combine multiple rows/columns).
 
 ### Hardware
 - 22 or 24 GA solid-core wire [Amazon example](https://www.amazon.com/dp/B07JNB712X)

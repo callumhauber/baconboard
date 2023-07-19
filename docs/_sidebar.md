@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 * [Home](/)
-* [Build Guide: Amoeba Variant](Amoeba-Variant-Guide.md)
-* [Build Guide: Freehand Variant](Freehand-Variant-Guide.md)
+* [Amoeba Variant Build Guide](Amoeba-Variant-Guide.md)
+* [Freehand Variant Build Guide](Freehand-Variant-Guide.md)
